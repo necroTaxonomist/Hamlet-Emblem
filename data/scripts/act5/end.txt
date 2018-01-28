@@ -1,0 +1,3 @@
+playMusic(victory.mp3)
+titlescreen(1)
+titleBackground(end.png)

@@ -1,0 +1,7 @@
+name$Polonius
+level$1
+class$Old Guy
+health$9
+accuracy$.2
+attack$.1
+defense$.1

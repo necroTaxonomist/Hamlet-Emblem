@@ -1,0 +1,5 @@
+portrait$pambassador.png
+idle$0$0$3$idle.png
+walkdown$0$0$2$wdown.png
+walkside$0$0$2$wside.png
+walkup$0$0$2$wup.png

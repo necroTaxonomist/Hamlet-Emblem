@@ -1,0 +1,13 @@
+setting(in development)
+loadMap(debug)
+
+add(Hamlet,6,2,hamlet.txt)
+add(Laertes,5,2,laertes.txt)
+
+wait(30)
+
+fight(Laertes,Hamlet,left,19)
+
+wait(30)
+
+fight(Laertes,Hamlet,right,19)

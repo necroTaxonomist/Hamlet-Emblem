@@ -1,0 +1,6 @@
+portrait$pghost.png
+idle$0$3$3$idle.png
+walkdown$0$3$2$wd.png
+walkside$0$3$2$ws.png
+walkup$0$3$2$wu.png
+voice$lowsquare.wav

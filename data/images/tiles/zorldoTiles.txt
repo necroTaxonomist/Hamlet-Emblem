@@ -1,0 +1,12 @@
+F$a$1$zorldo/ground.png
+G$a$1$zorldo/grave.png
+R$a$1$zorldo/rock.png
+H$a$1$zorldo/hole.png
+
+W$t$1$zorldo/twall.png
+W$tl$1$zorldo/tlwall.png
+W$tr$1$zorldo/trwall.png
+W$bl$1$zorldo/blwall.png
+W$br$1$zorldo/brwall.png
+W$a$1$zorldo/wall.png
+

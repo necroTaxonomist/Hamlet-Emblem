@@ -1,0 +1,7 @@
+name$Claudius
+level$14
+class$Danish King
+health$25
+accuracy$.95
+attack$.7
+defense$.5

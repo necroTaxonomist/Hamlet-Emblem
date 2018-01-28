@@ -1,0 +1,72 @@
+setting(Act I\, Scene 1)
+loadMap(castlewall)
+setCamera(0,240)
+add(Francisco,7,5,francisco.txt)
+playMusic(overview.mp3)
+show()
+
+panCamera(0,0,2,entervert)
+
+add(Bernardo,16,5,bernardo.txt)
+
+move(Bernardo,8,5,1.5,enterhor)
+wait(60)
+
+move(Francisco,2,-1,1.5,entervert)
+
+add(Marcellus,16,4,marcellus.txt)
+add(Horatio,16,6,horatio.txt)
+
+move(Marcellus,10,4,1.5,enterhor)
+move(Horatio,11,6,1.5,enterhor)
+
+wait(60)
+
+textbox(Marcellus,Good day to you\, Bernardo!,right)
+wait(30)
+textbox(Bernardo,sup.,left)
+wait(30)
+textbox(Marcellus,Today I've brought Horatio. He has a high school diploma\, so if anybody can figure out what's going on\, it's him.,right)
+wait(30)
+textbox(Horatio,Ha! You know I ain't fraid a' no ghost! It's probably just a pidgeon or something.,right)
+wait(60)
+stopMusic()
+fadeSkybox(0,0,32,128,15)
+
+wait(30)
+
+textbox(Bernardo,Welp\, here it comes.,left)
+wait(30)
+
+playMusic(unsettling.mp3)
+add(Ghost,2,-1,ghost.txt)
+move(Ghost,4,5,1,enterhor)
+wait(15)
+textbox(Ghost,...,left)
+wait(45)
+
+textbox(Horatio,Alright\, you've convinced me. You don't need a high school diploma to tell that's a ghost.,right)
+wait(30)
+textbox(Marcellus,And in the shape of the old king\, Hamlet! Horatio\, try to speak to it!,right)
+wait(15)
+textbox(Ghost,...,left)
+wait(15)
+textbox(Horatio,What do I look like? Some kind of ghost whisperer?,right)
+wait(30)
+textbox(Ghost,...,left)
+
+move(Ghost,2,-1,1,entervert)
+wait(15)
+fadeSkybox(255,255,255,0,10)
+stopMusic()
+wait(60)
+textbox(Bernardo,'Tis gone.,right)
+wait(30)
+textbox(Horatio,Well\, I should probably go tell Hamlet that his dad's a ghost now.,right)
+wait(15)
+move(Horatio,16,6,1.5,enterhor)
+
+hide()
+wait(30)
+
+loadScript(act1/scene2)

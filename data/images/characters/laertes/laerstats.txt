@@ -1,0 +1,7 @@
+name$laertes
+level$7
+class$Angry Dude
+health$18
+accuracy$.9
+attack$.7
+defense$.25

@@ -1,0 +1,11 @@
+portrait$phamlet.png
+idle$0$0$3$idle.png
+walkdown$0$0$2$walkdown.png
+walkside$0$0$2$walkside.png
+walkup$0$0$2$walkup.png
+voice$highsquare.wav
+stats$hamstats.txt
+battleidle$24$56$1$inbattle/idle.png
+battlewalk$24$56$3$inbattle/walk.png
+battleattack$24$56$3$inbattle/attack.png
+attackstyle$walk

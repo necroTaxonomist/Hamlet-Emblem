@@ -1,0 +1,16 @@
+16x15
++||||||||||||||+
++||||||||||||||+
++||||||DD||||||+
+GGGGGGG{}GGGGGGG
+GGGGGGG{}GGGGGGG
+GGGGGGG{}GGGGGGG
+GGGGGGG{}GGGGGGG
+GGGGGGG{}GGGGGGG
+GGGGGGG{}GGGGGGG
+GGGGGGG{}GGGGGGG
+GGGGGGG{}GGGGGGG
+++++++++++++++++
+++++++++++++++++
+++++++++++++++++
+||||||||||||||||

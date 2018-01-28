@@ -1,0 +1,5 @@
+10x4(8)
+ABCDEFGHIJ
+KLMNOPQRST
+UVWXYZ,.!?
+;:'%"/~~~~

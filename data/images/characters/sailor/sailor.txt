@@ -1,0 +1,6 @@
+portrait$psailor.png
+idle$0$0$2$idle.png
+walkdown$4$8$2$wd.png
+walkside$0$8$2$ws.png
+walkup$0$8$2$wu.png
+voice$lowsquare.wav

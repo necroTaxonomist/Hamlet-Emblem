@@ -1,0 +1,7 @@
+name$8$16
+level$96$16
+class$8$32
+health$9$50$3$6
+accuracy$32$60$1$4
+attack$32$68$1$4
+defense$32$76$1$4

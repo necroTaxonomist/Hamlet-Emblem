@@ -1,0 +1,6 @@
+titlescreen(1)
+titleBackground(intermission.png)
+
+waitForPress()
+closeTitle()
+loadScript(act4/scene1)

@@ -1,0 +1,7 @@
+name$hamlet
+level$5
+class$Danish Prince
+health$20
+accuracy$1
+attack$.4
+defense$.3

@@ -1,0 +1,16 @@
+16x15
+~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+GGGGGGGGGGGGGG~~
+GGGTTGGGTTGGGG~~
+++++++++++GGTG~~
++++++++++++GGG~~
++++++++++++TGG~~
+|||||||++++GTG~~
+|||||||++++GGG~~
+GGGGGGG++++TTG~~
+GGGGTGG++++GGG~~
+GGTGGGG++++GTG~~
+GGGTGGG++++GTG~~
+TGGGGGG++++GGG~~
+GGGGTTG++++GGG~~

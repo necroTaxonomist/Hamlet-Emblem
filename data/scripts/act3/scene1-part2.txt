@@ -1,0 +1,60 @@
+setting(Act III\, Scene 1)
+loadTileset(insideTiles)
+loadMap(hallway)
+setCamera(0,0)
+
+arras(7,3)
+arras(8,3)
+
+add(King,7,5,claudius.txt)
+add(Polonius,8,5,polonius.txt)
+
+add(Ophelia,9,7,ophelia.txt)
+add(Hamlet,-1,8,hamlet.txt)
+
+show()
+playMusic(drama.mp3)
+
+wait(30)
+move(Hamlet,4,7,1.5,entervert)
+
+wait(15)
+textbox(Hamlet,I'm supposed to make this hugeass "to be or not to be" speech right about now.,left)
+wait(15)
+textbox(Hamlet,But I think you already got enough of monologues during that last scene\, so I'll spare you.,left)
+
+wait(15)
+move(Hamlet,6,7,1.5,enterhor)
+wait(15)
+textbox(Hamlet,Hey Ophelia\, wanna fuck?,left)
+wait(30)
+textbox(Ophelia, You know what\, Hamlet? Sure. I feel like I've been getting shit on by everybody lately. I don't even know if my father wants me to be with you or not\, so I'm just going to stop caring and go with my gut.,right)
+wait(30)
+textbox(Hamlet,wow you're a real slut you better get yourself to a nunnery you whore,left)
+wait(10)
+move(Hamlet,-1,7,1.5,enterhor)
+wait(10)
+textbox(Ophelia,...,right)
+
+wait(30)
+move(Polonius,9,6,.5,entervert)
+move(King,6,6,.5,entervert)
+wait(30)
+textbox(King,Yeah\, I'm really feeling the love.,left)
+wait(15)
+textbox(King,You know what?\, I'm just going to send him to England and let those fuckers deal with him.,left)
+move(King,-1,7,1.5,enterhor)
+
+wait(30)
+textbox(Polonius,Way to go\, Ophelia\, you made me look stupid in front of the king.,right)
+wait(15)
+move(Polonius,12,7,1.5,entervert)
+move(Polonius,16,7,1.5,enterhor)
+
+wait(60)
+textbox(Ophelia,...,right)
+
+hide()
+stopMusic()
+wait(30)
+loadScript(act3/scene2)

@@ -1,0 +1,6 @@
+portrait$pophelia.png
+idle$0$0$3$idle.png
+walkdown$0$0$2$wd.png
+walkside$0$0$2$ws.png
+walkup$0$0$2$wu.png
+voice$highsquare.wav

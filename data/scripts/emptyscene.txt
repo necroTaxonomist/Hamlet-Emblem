@@ -1,0 +1,20 @@
+setting(in development)
+loadMap(castlewall)
+setCamera(0,240)
+
+add(Ambassador,2,2,ambassador.txt)
+add(Bernardo,3,2,bernardo.txt)
+add(King,4,2,claudius.txt)
+add(Gravedigger,5,2,1gravedigger.txt)
+add(Hamlet,6,2,hamlet.txt)
+add(Francisco,2,3,francisco.txt)
+add(Queen,3,3,gertrude.txt)
+add(Ghost,4,3,ghost.txt)
+add(Rosencrantz,5,3,rosencrantz.txt)
+add(Guildenstern,6,3,guildenstern.txt)
+
+show()
+
+panCamera(0,0,2,entervert)
+
+skyboxColor(0,0,32,128)
